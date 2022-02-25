@@ -1,3 +1,5 @@
+@font-face { font-family: "AU Passata Light"; src: url('../fonts/AU/AUPassata_Light.TTF'); }
+
 * {
-    font-family: "Roboto Light";
+    font-family: "AU Passata Light";
 }
