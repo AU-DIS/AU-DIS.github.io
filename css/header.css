@@ -19,13 +19,13 @@ header .home {
 }
 
 header .home-icon{
-    font-family: "AU Peto";
+    font-family: AUPeto;
     word-spacing: 0;
     display: inline-block;
 }
 
 header .home-icon div{
-    font-family: "AU Peto";
+    font-family: AUPeto;
     word-spacing: 0;
 }
 

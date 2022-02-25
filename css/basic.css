@@ -1,13 +1,13 @@
 @font-face {
     font-family: AUPassataLight;
-    src: url('../fonts/AU/AUPassata_Light.TTF') format('truetype');
+    src: url('../fonts/AU/AUPassata_Light.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: AUPeto;
-    src: url('../fonts/AU/AU_Peto.TTF') format('truetype');
+    src: url('../fonts/AU/AU_Peto.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
