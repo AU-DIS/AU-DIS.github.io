@@ -1,5 +1,12 @@
-@font-face { font-family: "AU Passata Light"; src: url('../fonts/AU/AUPassata_Light.TTF'); }
-@font-face { font-family: "AU Peto"; src: url('../fonts/AU/AU_Peto.TTF'); }
+@font-face {
+    font-family: "AU Passata Light";
+    src: url('../fonts/AU/AUPassata_Light.TTF') format('truetype');
+}
+
+@font-face {
+    font-family: "AU Peto";
+    src: url('../fonts/AU/AU_Peto.TTF') format('truetype');
+}
 
 * {
     font-family: "AU Passata Light";
