@@ -53,6 +53,16 @@ header nav a:hover {
     color: white;
 }
 
+header nav a.current {
+    background: #003d73;
+    color: white;
+    border-top: 2px solid white;
+}
+
+.banner {
+    width: 100%;
+    clip: rect(200px,0px,200px,0px);
+}
 
 footer {
     height: 56px;
