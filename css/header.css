@@ -2,29 +2,50 @@ header {
     background: #002546;
     color: white;
 
-    height: 56px;
-    line-height: 56px;
+    height: 64px;
 }
 
 header .home {
-    font-size: 34px;
+    font-size: 16px;
     font-weight: bolder;
+    line-height: 16px;
     color: white;
+
+    margin-top: 16px;
+    height: 32px;
+
     text-decoration: none;
+    display: inline-block;
+}
+
+header .home-icon{
+    font-family: "AU Peto";
+    word-spacing: 0;
+    display: inline-block;
+}
+
+header .home-icon div{
+    font-family: "AU Peto";
+    word-spacing: 0;
+}
+
+header .home-text{
+    display: inline-block;
 }
 
 header nav {
-    height: 56px;
-    margin-right: -16px;
+    height: 64px;
+    margin-right: -8px;
 }
 
 header nav a {
     text-decoration: none;
     color: white;
-    height: 56px;
+    height: 64px;
+    line-height: 64px;
     display: inline-block;
-    padding-left: 16px;
-    padding-right: 16px;
+    padding: 8px;
+    display: inline-block;
 }
 
 header nav a:hover {
