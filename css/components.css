@@ -44,8 +44,7 @@ a.collection-item:hover{
 .collection-item-icon {
     display: inline-block;
     font-size: 48px;
-    max-width: 48px;
-    max-height: 48px;
+    width: 48px;
     color: #002546;
 }
 
